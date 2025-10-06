@@ -1,0 +1,6 @@
+node_modules/
+.env
+out/
+basededatos.sqlite
+ejemplo.sqlite
+mi_base_de_datos.sqlite
